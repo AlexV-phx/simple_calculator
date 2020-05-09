@@ -1,0 +1,6 @@
+
+# Integrated Development Environment folder
+.idea/
+
+# virtual environment
+venv/
